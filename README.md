@@ -1,4 +1,5 @@
-A comprehensive pipeline for music genre classification using machine learning. This repository includes data loading, audio feature extraction, model training with a convolutional neural network (CNN), and prediction for classifying music genres. Features include Short-Time Fourier Transform (STFT), Spectral Rolloff, Chroma features, and more. The trained model is saved for easy integration into other applications. Explore and enhance your understanding of audio signal processing and deep learning in the context of music genre classification.
+(work in progress)
+# A comprehensive pipeline for music genre classification using machine learning. This repository includes data loading, audio feature extraction, model training with a convolutional neural network (CNN), and prediction for classifying music genres. Features include Short-Time Fourier Transform (STFT), Spectral Rolloff, Chroma features, and more. The trained model is saved for easy integration into other applications. Explore and enhance your understanding of audio signal processing and deep learning in the context of music genre classification.
 
 The main aim is to create a machine learning model, which classifies music samples into different genres. It aims to predict the genre using an audio signal as its input.
 
