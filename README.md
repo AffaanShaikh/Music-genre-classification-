@@ -6,6 +6,8 @@ The main aim is to create a machine learning model, which classifies music sampl
 Librosa is a python package for music and audio analysis. It provides the building blocks necessary to create music information retrieval systems. By using Librosa, we can extract certain key features from the audio samples such as Tempo, Chroma Energy Normalized,
 Mel-Freqency Cepstral Coefficients, Spectral Centroid, Spectral Contrast, Spectral Rolloff, and Zero Crossing Rate.
 
+Dataset used: https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
+
 Methods used for visualizing the audio files:
 
 1. Plot Raw Wave Files: Waveforms are visual representations of sound as time on the x-axis and amplitude on the y-axis.
